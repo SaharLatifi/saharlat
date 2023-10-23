@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @sahar
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Power BI
-- 💞️ I’m looking to collaborate on BI Development
-- 📫 How to reach me ...
+👋 Hello, I'm Sahar!
 
-<!---
-saharlat/saharlat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔍 With 10+ years of experience in software engineering, I've embarked on a new journey into the realm of data analytics. I'm passionate about harnessing the power of data to derive actionable insights and drive informed decision-making.
+
+🛠️ Skills: SQL, Power BI, Python.
+
+📊 Data Projects: I'm currently working on various data analytics projects, from crafting comprehensive reports to building dynamic dashboards. Check out my repositories below!
+
+🔗 Connect with me: https://www.linkedin.com/in/saharlatifi/
